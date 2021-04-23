@@ -25,11 +25,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Usage
 
- ![Demo](images/11-express-homework-demo-01.png)
+ ![Demo](Assets/11-express-homework-demo-02.png)
 
 ## Links
  
-  * Heroku Link: 
+  * Deployed Heroku Page: 
   * Github Repository URL: (https://github.com/samohtebag/Note-Taker-App)
 
 ## License
