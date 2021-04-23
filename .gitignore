@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# keep build artifacts out of git
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
