@@ -23,9 +23,9 @@ app.use(express.static("public"));
 
 // setting up the routes
 
-require('./routes/apiroutes')(app);
+require('./routes/apiroute')(app);
 
-require('./routes/htmlroutes')(app);
+require('./routes/htmlroute')(app);
 
 
 // app listener
