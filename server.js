@@ -18,12 +18,14 @@ app.use(express.urlencoded({extended: true}));
 
 app.use(express.json());
 
-app.use(express.static(_dirname));
+app.use(express.static("public"));
 
 
 // setting up the routes
 
-require('./routes/htmlRoutes')(app);
+require('./routes/apiroutes')(app);
+
+require('./routes/htmlroutes')(app);
 
 
 // app listener
