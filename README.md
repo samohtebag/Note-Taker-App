@@ -6,7 +6,7 @@
 
 * This is a note taking web application built to take a users notes and save them. Users can save and delete notes as they choose. The application is built using Express.js, Node.js, HTML, CSS, and Javascript.
 
-* Deployed Heroku Page:
+* Deployed Heroku Page: https://glacial-scrubland-35229.herokuapp.com/
 
 ## Users
 
@@ -29,7 +29,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Links
  
-  * Deployed Heroku Page: 
+  * Deployed Heroku Page: https://glacial-scrubland-35229.herokuapp.com/
   * Github Repository URL: (https://github.com/samohtebag/Note-Taker-App)
 
 ## License
